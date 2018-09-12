@@ -1,0 +1,88 @@
+body {
+
+}
+
+.form-group {
+
+}
+
+.form-group-box_logs {
+
+}
+
+#identity {
+	font-size: 12px;
+	width: 800px;
+	height: 50px;
+	overflow: auto;
+	background-color: #ffffe0;
+	margin-bottom: 1em;
+	padding-top: 10px;
+	padding-left: 5px;
+}
+
+#set_topics {
+	width: 300px;
+	height: 20px;
+	overflow: auto;
+	background-color: #ffffe0;
+	margin-bottom: 1em;
+	padding-left: 5px;
+	font-size: 15px;
+}
+
+
+#box_logs_shh {
+	width: 800px;
+	height: 400px;
+	overflow: auto;
+	background-color: #eee;
+	margin-bottom: 1em;
+	padding-left: 5px;
+	font-size: 15px;
+}
+
+#input_payload {
+	font-size: 12px;
+	width: 800px;
+	height: 10px;
+	overflow: auto;
+	margin-bottom: 1em;
+	padding-top: 10px;
+	padding-left: 5px;
+}
+
+
+
+
+
+label {
+	font-weight: bold;
+}
+
+label[for="get_Identity"] {
+
+}
+
+label[for="input_from"] {
+
+}
+
+label[for="input_to"] {
+
+}
+
+label[for="set_topics"] {
+
+}
+
+label[for="box_logs"] {
+	width: 600px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	background-color: #87cefa;
+}
+
+input {
+	width: 300px;
+}
